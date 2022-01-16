@@ -13,7 +13,7 @@ Lastly, I have received multiple awards for "Outstanding Customer Service." I'm 
 
 - 🔭 I’m currently working on mastering data structures and algorithms.
 - 🌱 I’m currently learning OpenCV for raspberry pi.
-- 👯 I’m looking to collaborate with experienced programmers to improve the breadth of my knowledge and programming experience.
+- 👯 I’m looking to collaborate with experienced programmers to improve my current skill set and programming experience.
 - 🤔 I’m looking for help with further developing my programming skills and project-based experience.
 - 💬 Ask me about Arduino, 3d printing, robotics, or object-oriented programming.
 - 📫 How to reach me: linkedin.com/in/johnathan-uptegraph-270576191.
