@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome 
 
 I am a recent graduate from Miami University with a bachelor's degree in Emerging Technology in Business and Design (ETBD) and minors in Computer Science and Games & Simulations. My ETBD program has provided me with a strong foundation in technology, business, and design, as well as a deep understanding of data science, engineering, and programming.
 
