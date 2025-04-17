@@ -1,6 +1,19 @@
-### Welcome 
+# 👋 Welcome to My Portfolio
 
-Hello, I'm Johnathan Uptegraph, a Controls Engineer at KC Robotics. Our experienced team specializes in designing and developing cutting-edge automation systems using top-of-the-line robots like ABB, KUKA, Yaskawa, and Fanuc. As a Controls Engineer, I'm dedicated to delivering exceptional results and contributing to project success.
+Hi, I’m **Johnathan Uptegraph** — a Robotics & Mechatronics Engineer with a passion for building systems that move, think, and scale.
 
-My expertise lies in developing, testing, and troubleshooting PLC and HMI programs. With a strong command of ladder logic and programming languages, I create robust and efficient control systems for optimizing automation solutions. I have a wide range of interests including 3D printing, robotics, programming, web development, electronic hardware, UX/UI design, VR, AR, and game development, I bring a unique perspective to my work. I'm proficient in programming languages such as Java, C, C#, C++, Python, HTML, CSS, JavaScript, PHP, SQL, and Swift. Additionally, I have hands-on experience with CAD modeling software like AutoDesk Fusion 360, Blender, Maya, and PrusaSlicer.
+Over the past two years, I’ve deployed **50+ industrial robots**, programming and integrating with KUKA, Fanuc, ABB, and Yaskawa robots. While I’ve developed expertise in **PLC programming** (Rockwell, Siemens), I also love **robotics R&D**, **3D printing**, and **mechatronics** — in my spare time I enjoy designing systems that blend hardware, software, and creativity.
 
+### ⚙️ What I Do
+- Full-cell robotic integration (KUKA, ABB, Fanuc)
+- PLC + HMI development (ladder logic, structured text)
+- Embedded systems & prototyping (ESP32, Raspberry Pi)
+- CAD & 3D modeling (Fusion 360, Blender, Maya)
+- Front-end development (HTML/CSS/JS, PHP, React)
+- UX/UI design & product storytelling
+- Game dev & simulation (Unity, Unreal, P5.js)
+
+### 🎯 Interests
+> Robotics | Mechatronics | 3D Printing | Rapid Prototyping 
+
+Let’s build something remarkable together.
