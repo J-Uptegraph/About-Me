@@ -1,4 +1,4 @@
-# 👋 Welcome to My Portfolio
+# 👋 Welcome to My GitHub
 
 Hi, I’m **Johnathan Uptegraph** — a Robotics & Mechatronics Engineer with a passion for building systems that move, think, and learn.
 
