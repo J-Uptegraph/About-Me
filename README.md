@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub
 
-Hi, I’m **Johnathan Uptegraph** — a Robotics & Mechatronics Engineer with a passion for building systems that move, think, and learn.
+Hi, I’m **Johnathan Uptegraph** — A Robotics & Mechatronics Engineer with a passion for building systems that move, think, and learn.
 
 Over the past two years, I’ve been a part of the deployment of **50+ industrial robots**, programming and integrating with KUKA, Fanuc, ABB, and Yaskawa robots. While I’ve developed expertise in **PLC programming** (Rockwell, Siemens), I also love **robotics R&D**, **3D printing**, and **mechatronics** — in my spare time I enjoy designing systems that blend hardware, software, and creativity.
 
