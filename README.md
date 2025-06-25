@@ -1,5 +1,7 @@
 # **Hi, I'm Johnathan a Robotics and Mechatronics Engineer**  
+
 ***"I build systems that thrive under pressure—and scale with purpose."***
+
 
 I see robotics as both a **science and an art**—where **engineering meets creative problem-solving**. I think like an **engineer** and develop like a **designer**, creating systems that **perform under pressure** and **are designed to scale with purpose**. With over **two years of experience** deploying **50+ robots** across **$25M+ installations** in **EV, medical, and defense sectors**, I specialize in solutions that **launch fast, scale efficiently, and adapt to real-world constraints**.
 
@@ -19,7 +21,9 @@ Outside the lab, I enjoy **boxing, weightlifting, and catching up on the latest 
 Humanoid Robotics | Mechatronics | Rapid Prototyping | Complex System Design
 
 ## 🔗 Collaborate on Robotics Innovation
-🌐 [Portfolio](https://juptegraph.dev)  
-💼 [LinkedIn](https://www.linkedin.com/in/johnathan-uptegraph-270576191)  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://juptegraph.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/johnathan-uptegraph-270576191/)
+[![Resume](https://img.shields.io/badge/Resume-Download-red)](https://juptegraph.dev/media/pdfs/Johnathan_Uptegraph.pdf)
 
 *Let’s build something remarkable together!*
